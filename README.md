@@ -6,7 +6,7 @@ it have set of word which you need to guess to protect the man from dying
 
 ### SET OF WORDS 
 <ul>
-<li>awesome</li><li>codingw</li><li>courses<li></li>hathway</li>
+<li>awesome</li><li>codingw</li><li>courses</li><li>hathway</li>
 </ul>
 
 

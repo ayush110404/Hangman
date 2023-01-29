@@ -1,4 +1,4 @@
-# Hangman
+# HANGMAN GAME
 This is a beginner freindly game made using c++
 
 ## HOW TO PLAY
